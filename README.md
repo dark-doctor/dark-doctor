@@ -7,6 +7,8 @@
   <a href="mailto:codestranger@gmail.com">Email</a>
 </p>
 
+<p align="center"> <img src="https://octodex.github.com/images/labtocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"> </p>
+
 ---
 
 🔧 I specialize in designing **robust, scalable, cloud-native systems**. With years of fullstack experience, I'm now focused on **architecting software solutions** that align with business strategy, ensure long-term maintainability, and embrace modern engineering standards.
