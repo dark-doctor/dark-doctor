@@ -2,7 +2,7 @@
 <h3 align="center">Software Architect | Aspiring Solution Architect | System Design & Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://flagcdn.com/16x12/ja.png" width="13"/> Japan, Hokkaido • 
+  <img src="https://flagcdn.com/16x12/jp.png" width="13"/> Japan, Hokkaido • 
   <a href="https://www.linkedin.com/in/masato/" target="_blank">LinkedIn</a> • 
   <a href="mailto:codestranger@gmail.com">Email</a>
 </p>
