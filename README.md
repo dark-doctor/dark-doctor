@@ -1,5 +1,14 @@
-<h1 align="center">🖐️ Senior Software Engineer 🖐️</h1> 
-<br />
+<h1 align="center">👋 Hi, I'm Masato</h1>
+<h3 align="center">Software Architect | Aspiring Solution Architect | System Design & Cloud Enthusiast</h3>
+
+<p align="center">
+  <img src="https://flagcdn.com/16x12/fi.png" width="13"/> Helsinki, Finland • 
+  <a href="https://www.linkedin.com/in/masato/" target="_blank">LinkedIn</a> • 
+  <a href="mailto:codestranger@gmail.com">Email</a>
+</p>
+
+---
+
 🔧 I specialize in designing **robust, scalable, cloud-native systems**. With years of fullstack experience, I'm now focused on **architecting software solutions** that align with business strategy, ensure long-term maintainability, and embrace modern engineering standards.
 
 > “Good software architecture is not just about choosing the right tools — it's about designing systems that evolve gracefully.”  
